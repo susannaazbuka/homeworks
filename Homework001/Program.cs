@@ -8,11 +8,11 @@ void Zadacha2()
     int number2 = Convert.ToInt32(Console.ReadLine());
     if (number1 > number2)
     {
-    Console.WriteLine("max = " + number1);
+        Console.WriteLine("max = " + number1);
     }
     else
     {
-    Console.WriteLine("max = " + number2);
+        Console.WriteLine("max = " + number2);
     }
 }
 
