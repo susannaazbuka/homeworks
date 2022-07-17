@@ -155,4 +155,4 @@ void Zadacha4dop()
 //Zadacha1dop();
 //Zadacha2dop();
 //Zadacha3dop();
-Zadacha4dop();
+//Zadacha4dop();
