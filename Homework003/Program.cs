@@ -54,10 +54,10 @@ void Zadacha21()
 //и выдаёт таблицу кубов чисел от 1 до N.
 void Zadacha23()
 {
-    //Console.WriteLine("Введите число: ");
-    //int n = Convert.ToInt32(Console.ReadLine());
-    Random random = new Random();
-    int x = random.Next(0,10);
+    Console.WriteLine("Введите число: ");
+    int x = Convert.ToInt32(Console.ReadLine());
+    //Random random = new Random();
+    //int x = random.Next(0,10);
     double num = 1; 
     double res = 0;
     Console.WriteLine($"Число {x}");
@@ -71,5 +71,5 @@ void Zadacha23()
 }
 
 //Zadacha19();
-Zadacha21();
+//Zadacha21();
 //Zadacha23();
