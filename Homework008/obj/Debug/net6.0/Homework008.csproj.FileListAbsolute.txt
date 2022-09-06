@@ -1,0 +1,15 @@
+C:\Users\sagajanyan001\Desktop\Geek Brains\Семинары C#\Homework008\bin\Debug\net6.0\Homework008.exe
+C:\Users\sagajanyan001\Desktop\Geek Brains\Семинары C#\Homework008\bin\Debug\net6.0\Homework008.deps.json
+C:\Users\sagajanyan001\Desktop\Geek Brains\Семинары C#\Homework008\bin\Debug\net6.0\Homework008.runtimeconfig.json
+C:\Users\sagajanyan001\Desktop\Geek Brains\Семинары C#\Homework008\bin\Debug\net6.0\Homework008.dll
+C:\Users\sagajanyan001\Desktop\Geek Brains\Семинары C#\Homework008\bin\Debug\net6.0\Homework008.pdb
+C:\Users\sagajanyan001\Desktop\Geek Brains\Семинары C#\Homework008\obj\Debug\net6.0\Homework008.csproj.AssemblyReference.cache
+C:\Users\sagajanyan001\Desktop\Geek Brains\Семинары C#\Homework008\obj\Debug\net6.0\Homework008.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sagajanyan001\Desktop\Geek Brains\Семинары C#\Homework008\obj\Debug\net6.0\Homework008.AssemblyInfoInputs.cache
+C:\Users\sagajanyan001\Desktop\Geek Brains\Семинары C#\Homework008\obj\Debug\net6.0\Homework008.AssemblyInfo.cs
+C:\Users\sagajanyan001\Desktop\Geek Brains\Семинары C#\Homework008\obj\Debug\net6.0\Homework008.csproj.CoreCompileInputs.cache
+C:\Users\sagajanyan001\Desktop\Geek Brains\Семинары C#\Homework008\obj\Debug\net6.0\Homework008.dll
+C:\Users\sagajanyan001\Desktop\Geek Brains\Семинары C#\Homework008\obj\Debug\net6.0\refint\Homework008.dll
+C:\Users\sagajanyan001\Desktop\Geek Brains\Семинары C#\Homework008\obj\Debug\net6.0\Homework008.pdb
+C:\Users\sagajanyan001\Desktop\Geek Brains\Семинары C#\Homework008\obj\Debug\net6.0\Homework008.genruntimeconfig.cache
+C:\Users\sagajanyan001\Desktop\Geek Brains\Семинары C#\Homework008\obj\Debug\net6.0\ref\Homework008.dll
